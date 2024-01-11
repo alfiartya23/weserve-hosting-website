@@ -1,5 +1,5 @@
 import logo from "../assets/logo.svg";
-import cart from "../assets/bag-2.svg";
+import cart from "../assets/bag_2.svg";
 
 export default function NavigationBar() {
   return (
