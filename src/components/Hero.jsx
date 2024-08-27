@@ -29,7 +29,7 @@ export default function Hero() {
           </div>
         </div>
         <div className="flex flex-row items-center">
-          <img className="h-[550px]" src="../../public/images/illustration-header.png" alt="Illustration Header" />
+          <img className="h-[550px]" src="/images/illustration-header.png" alt="Illustration Header" />
         </div>
       </div>
     </section>
