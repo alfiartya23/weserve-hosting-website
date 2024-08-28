@@ -4,6 +4,7 @@ import CompanyBrand from "./components/CompanyBrand";
 import Features from "./components/Features";
 import Benefits from "./components/Benefits";
 import Showcase from "./components/Showcase";
+import FrequentQuestion from "./components/FrequentQuestion";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Features />
       <Benefits />
       <Showcase />
+      <FrequentQuestion />
     </>
   );
 }

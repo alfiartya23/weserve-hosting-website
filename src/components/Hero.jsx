@@ -14,7 +14,7 @@ export default function Hero() {
             <h1 className="text-indigo-950 font-['Clash_Display'] text-[70px] leading-none">
               Grow Online <br /> Business Faster.
             </h1>
-            <p className="text-base leading-loose text-gray-500 font-semibold ">
+            <p className="text-base leading-loose text-gray-500">
               We provide a variety of servers to grow your users <br /> acquisition much user-friendly and boosting up sales.
             </p>
           </div>

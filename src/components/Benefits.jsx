@@ -19,7 +19,7 @@ export default function Benefits() {
               We Have Very <br />
               Strong Ecosystem
             </h1>
-            <p className="text-base text-gray-500 font-medium">
+            <p className="text-base text-gray-500 leading-loose">
               We provide a variety of servers to grow your users <br /> acquisition much user-friendly and boosting up sales.
             </p>
           </div>
@@ -43,7 +43,7 @@ export default function Benefits() {
                 />
               </svg>
               <div className="flex flex-col items">
-                <h3 className="font-bold text-slate-900">$880 Mio</h3>
+                <h3 className="font-bold text-xl text-indigo-950">$880 Mio</h3>
                 <p className="text-gray-500 text-base font-medium leading-relaxed">Company budget saved</p>
               </div>
             </div>
@@ -80,7 +80,7 @@ export default function Benefits() {
               </svg>
 
               <div className="flex flex-col items">
-                <h3 className="font-bold text-slate-900">450,392</h3>
+                <h3 className="font-bold text-xl text-indigo-950">450,392</h3>
                 <p className="text-gray-500 text-base font-medium leading-relaxed">All servers available</p>
               </div>
             </div>
@@ -107,7 +107,7 @@ export default function Benefits() {
               </svg>
 
               <div className="flex flex-col items">
-                <h3 className="font-bold text-slate-900">189 Mio</h3>
+                <h3 className="font-bold text-xl text-indigo-950">189 Mio</h3>
                 <p className="text-gray-500 text-base font-medium leading-relaxed">Websites are running good</p>
               </div>
             </div>
