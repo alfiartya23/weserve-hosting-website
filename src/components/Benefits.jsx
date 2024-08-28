@@ -3,11 +3,11 @@ import device_message from "../assets/device_message.svg";
 
 export default function Benefits() {
   return (
-    <section className="hero max-w-6xl mx-auto py-12">
+    <section className="benefits max-w-6xl mx-auto py-12">
       <div className="flex flex-row items-center gap-x-24">
         {/* Image */}
         <div className="flex flex-row items-center">
-          <img className="h-[550px]" src="/images/illustration_benefits.png" alt="Illustration Header" />
+          <img className="h-[500px]" src="/images/illustration_benefits.png" alt="Illustration Header" />
         </div>
         <div className="flex flex-col gap-y-10">
           <div className="w-fit gap-x-2 px-3 py-2 small-badge flex flex-row bg-white rounded-full">
@@ -19,7 +19,7 @@ export default function Benefits() {
               We Have Very <br />
               Strong Ecosystem
             </h1>
-            <p className="text-base leading-loose text-gray-500">
+            <p className="text-base text-gray-500 font-medium">
               We provide a variety of servers to grow your users <br /> acquisition much user-friendly and boosting up sales.
             </p>
           </div>

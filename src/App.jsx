@@ -3,6 +3,7 @@ import NavigationBar from "./components/NavigationBar";
 import CompanyBrand from "./components/CompanyBrand";
 import Features from "./components/Features";
 import Benefits from "./components/Benefits";
+import Showcase from "./components/Showcase";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <CompanyBrand />
       <Features />
       <Benefits />
+      <Showcase />
     </>
   );
 }

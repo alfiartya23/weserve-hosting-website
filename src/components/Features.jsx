@@ -4,7 +4,7 @@ export default function Features() {
       <section className="features max-w-6xl mx-auto py-12">
         {/* Content */}
         <div className="flex flex-col items-center gap-y-8">
-          <h3 className="font-['Clash_Display'] font-semibold text-indigo-950 text-5xl">Your Best Choice</h3>
+          <h1 className="font-['Clash_Display'] font-medium text-indigo-950 text-5xl">Your Best Choice</h1>
 
           {/* Cards Container*/}
           <div className="flex flex-row justify-between gap-x-8">
