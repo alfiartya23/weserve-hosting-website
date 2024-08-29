@@ -5,6 +5,7 @@ import Features from "./components/Features";
 import Benefits from "./components/Benefits";
 import Showcase from "./components/Showcase";
 import FrequentQuestion from "./components/FrequentQuestion";
+import CallToAction from "./components/CallToAction";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Benefits />
       <Showcase />
       <FrequentQuestion />
+      <CallToAction />
     </>
   );
 }

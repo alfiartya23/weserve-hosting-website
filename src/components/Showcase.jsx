@@ -15,6 +15,7 @@ export default function Showcase() {
           {/* Image Slider Showcase */}
           <div className="flex flex-wrap gap-x-10 justify-center">
             {/* Group Hover Concept Tailwind */}
+            {/* Showcase-1 */}
             <div className="group relative">
               {/* Hover */}
               <div className="group-hover:opacity-100 opacity-0 transition-all ease-in-out duration-200 absolute justify-center w-full bottom-8 flex">
@@ -24,6 +25,7 @@ export default function Showcase() {
               </div>
               <img src="/images/showcase-1.png" alt="" className="group-hover:border-4 transition-all ease-in-out duration-200 border-violet-700 rounded-2xl w-[320px] h-[220px]" />
             </div>
+            {/* Showcase-2 */}
             <div className="group relative">
               {/* Hover */}
               <div className="group-hover:opacity-100 opacity-0 transition-all ease-in-out duration-200 absolute justify-center w-full bottom-8 flex">
@@ -33,6 +35,7 @@ export default function Showcase() {
               </div>
               <img src="/images/showcase-2.png" alt="" className="group-hover:border-4 transition-all ease-in-out duration-200 border-violet-700 rounded-2xl w-[320px] h-[220px]" />
             </div>
+            {/* Showcase-3 */}
             <div className="group relative">
               {/* Hover */}
               <div className="group-hover:opacity-100 opacity-0 transition-all ease-in-out duration-200 absolute justify-center w-full bottom-8 flex">
@@ -42,6 +45,7 @@ export default function Showcase() {
               </div>
               <img src="/images/showcase-3.png" alt="" className="group-hover:border-4 transition-all ease-in-out duration-200 border-violet-700 rounded-2xl w-[320px] h-[220px]" />
             </div>
+            {/* Showcase-4 */}
             <div className="group relative">
               {/* Hover */}
               <div className="group-hover:opacity-100 opacity-0 transition-all ease-in-out duration-200 absolute justify-center w-full bottom-8 flex">
